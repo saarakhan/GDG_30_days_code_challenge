@@ -11,3 +11,4 @@
 | Day07      | Insert in Doubly LL      | 12-01-25   |
 | Day08      | Sort the Array           | 13-01-25   |
 | Day09      | Non-Overlapping Intervals| 14-01-25   |
+| Day10     | Floor in a sorted Array | 15-01-25   |
