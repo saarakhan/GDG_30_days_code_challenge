@@ -13,3 +13,4 @@
 | Day09      | Non-Overlapping Intervals      | 14-01-25 |
 | Day10      | Floor in a sorted Array        | 15-01-25 |
 | Day11      | Search in sorted rotated array | 16-01-25 |
+| Day12      | Kth Missing Positive Number 2 | 17-01-25 |
