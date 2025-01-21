@@ -17,3 +17,4 @@
 | Day13      | Koko eating banana             | 18-01-25 |
 | Day14      | Aggressive cows                | 19-01-25 |
 | Day15      | Prefix to Infix                | 20-01-25 |
+| Day16      | Stack from Queue               | 21-01-25 |
