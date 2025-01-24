@@ -18,4 +18,6 @@
 | Day14      | Aggressive cows                | 19-01-25 |
 | Day15      | Prefix to Infix                | 20-01-25 |
 | Day16      | Stack from Queue               | 21-01-25 |
-| Day17      | Next Greater Element              | 22-01-25 |
+| Day17      | Next Greater Element           | 22-01-25 |
+| Day18      | Balanced Bracket               | 23-01-25 |
+| Day19      | Sliding Window Maximum         | 24-01-25 |
