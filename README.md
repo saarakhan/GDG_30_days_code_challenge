@@ -21,3 +21,4 @@
 | Day17      | Next Greater Element           | 22-01-25 |
 | Day18      | Balanced Bracket               | 23-01-25 |
 | Day19      | Sliding Window Maximum         | 24-01-25 |
+| Day20      | Rotten Oranges                 | 25-01-25 |
