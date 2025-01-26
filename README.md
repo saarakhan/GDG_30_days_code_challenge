@@ -22,3 +22,4 @@
 | Day18      | Balanced Bracket               | 23-01-25 |
 | Day19      | Sliding Window Maximum         | 24-01-25 |
 | Day20      | Rotten Oranges                 | 25-01-25 |
+| Day21      | Remove k digits                | 26-01-25 |
