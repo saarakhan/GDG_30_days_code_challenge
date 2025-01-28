@@ -24,3 +24,4 @@
 | Day20      | Rotten Oranges                 | 25-01-25 |
 | Day21      | Remove k digits                | 26-01-25 |
 | Day22      | Longest Palindromic substring  | 27-01-25 |
+| Day23      | Anagram                        | 28-01-25 |
