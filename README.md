@@ -26,3 +26,4 @@
 | Day22      | Longest Palindromic substring  | 27-01-25 |
 | Day23      | Anagram                        | 28-01-25 |
 | Day24      | Longest Prefix sum             | 29-01-25 |
+| Day25      | Subset sum             | 30-01-25 |
