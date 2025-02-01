@@ -28,3 +28,4 @@
 | Day24      | Longest Prefix sum             | 29-01-25 |
 | Day25      | Subset sum                     | 30-01-25 |
 | Day26      | Rat in Maze                    | 31-01-25 |
+| Day27      | N Queen                    | 1-02-25 |
